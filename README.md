@@ -1,1 +1,2 @@
 # vite-rails
+# vite-rails
